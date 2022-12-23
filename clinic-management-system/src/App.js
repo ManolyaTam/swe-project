@@ -24,7 +24,9 @@ function App() {
       {page === 'profile' && <>
         <Profile appointments={appointments} /><br /><br />
         <Button onClick={() => setPage('record')}>View your medical record</Button> <br /><br />
-        <Button onClick={() => setPage('calendar')}>Book an appointment</Button>
+        <Button onClick={() => setPage('calendar')}>Book an appointment</Button> <br /><br />
+        <Button onClick={() => setPage('login')}>Log out</Button>
+
       </>
       }
       {page === 'record' && <>

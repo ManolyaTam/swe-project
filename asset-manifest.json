@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/swe-project/static/css/main.073c9b0a.css",
+    "main.js": "/swe-project/static/js/main.c357c49a.js",
+    "static/js/787.33746794.chunk.js": "/swe-project/static/js/787.33746794.chunk.js",
+    "static/media/logo.svg": "/swe-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/swe-project/index.html",
+    "main.073c9b0a.css.map": "/swe-project/static/css/main.073c9b0a.css.map",
+    "main.c357c49a.js.map": "/swe-project/static/js/main.c357c49a.js.map",
+    "787.33746794.chunk.js.map": "/swe-project/static/js/787.33746794.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c357c49a.js"
+  ]
+}

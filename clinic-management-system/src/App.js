@@ -29,7 +29,7 @@ function App() {
       }
       {page === 'record' && <>
         <Button onClick={() => setPage('profile')}>Back to profile</Button>
-        <img src={rec} />
+        <br /><img src={rec} />
       </>
       }
 

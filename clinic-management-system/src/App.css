@@ -1,7 +1,13 @@
-.App {
+.App { 
   text-align: center;
   margin: 100px 300px;
+  zoom: 110%;
 }
+
+h2 {
+  margin: 50px 0;
+}
+
 .login-form {
   margin: 0 400px;
 }

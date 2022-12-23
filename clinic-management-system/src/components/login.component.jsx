@@ -39,7 +39,7 @@ const Login = (props) => {
         type="primary" 
         htmlType="submit" 
         className="login-form-button"
-        onClick={() => props.setLoggedIn(true)}
+        onClick={() => props.setLoggedIn('profile')}
         >
           Log in
         </Button><br/>

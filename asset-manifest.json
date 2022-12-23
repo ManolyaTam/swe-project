@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/swe-project/static/css/main.8aff1648.css",
-    "main.js": "/swe-project/static/js/main.ad60f3e1.js",
+    "main.js": "/swe-project/static/js/main.ac2c498f.js",
     "static/js/787.33746794.chunk.js": "/swe-project/static/js/787.33746794.chunk.js",
+    "static/media/medical_record.jpg": "/swe-project/static/media/medical_record.23ae1d279b5fab35ac0a.jpg",
     "index.html": "/swe-project/index.html",
     "main.8aff1648.css.map": "/swe-project/static/css/main.8aff1648.css.map",
-    "main.ad60f3e1.js.map": "/swe-project/static/js/main.ad60f3e1.js.map",
+    "main.ac2c498f.js.map": "/swe-project/static/js/main.ac2c498f.js.map",
     "787.33746794.chunk.js.map": "/swe-project/static/js/787.33746794.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8aff1648.css",
-    "static/js/main.ad60f3e1.js"
+    "static/js/main.ac2c498f.js"
   ]
 }

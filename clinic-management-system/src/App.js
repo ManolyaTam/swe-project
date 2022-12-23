@@ -2,7 +2,8 @@ import './App.css';
 import Login from './components/login.component';
 import { Calendar, Button } from 'antd';
 import { useState } from 'react';
-import Profile from './components/profile.component';
+import Profile from './components/profile.component'
+import rec from './medical_record.jpg'
 function App() {
   const [page, setPage] = useState('login');
   const [appointments, setAppointments] = useState(0);
@@ -24,6 +25,11 @@ function App() {
         <Profile appointments={appointments} /><br /><br />
         <Button onClick={() => setPage('record')}>View your medical record</Button> <br /><br />
         <Button onClick={() => setPage('calendar')}>Book an appointment</Button>
+      </>
+      }
+      {page === 'record' && <>
+        <Button onClick={() => setPage('profile')}>Back to profile</Button>
+        <img src={rec} />
       </>
       }
 
